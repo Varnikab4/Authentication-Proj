@@ -1,0 +1,19 @@
+AUTHENTICATION PROJECT
+Built with React, CSS, and Firebase, this project implements a comprehensive authentication system featuring login, signup, change password, and forgot password functionalities. Upon successful login, users are redirected to the home page, granting them access to the website's features. Logging out directs users back to the login page for secure session management.
+
+Features:
+
+Login: Users securely log in using their email and password credentials.
+Signup: New users can create accounts with a secure email and password registration process.
+Change Password: Provides a mechanism for users to securely update their login credentials.
+Forgot Password: Allows users to reset forgotten passwords via a secure email verification process.
+Automatic Redirect: Upon successful login, users are redirected to the home page for seamless access.
+Logout Redirect: Logging out returns users to the login page, ensuring secure session handling.
+Technologies Used:
+
+Frontend: React.js, CSS
+Backend: Firebase Authentication
+Deployment: Hosted on a cloud platform for scalability and accessibility.
+Purpose:
+This project aims to deliver a robust authentication solution using modern web technologies, ensuring secure user access and management. By leveraging Firebase Authentication, it provides a reliable framework for handling user credentials and sessions, enhancing both security and user experience in web applications.
+
